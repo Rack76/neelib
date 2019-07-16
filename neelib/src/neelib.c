@@ -1,4 +1,4 @@
-#include "include/neelib.h"
+#include "neelib.h"
 
 void hello()
 {
